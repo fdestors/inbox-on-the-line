@@ -94,35 +94,35 @@ It won’t replace experience but it might remind you why the rules exist.
 
 ## 📜 Lyrics & Tracklist
 
-### 1. [Inbox on the Line](./lyrics/01 Inbox On The Line.md)
+1. [Inbox on the Line](./lyrics/01 Inbox On The Line.md)
 
-### 2. [Cold Lists, Cold Nights](./lyrics/02 Cold Lists, Cold Nights.md)
+2. [Cold Lists, Cold Nights](./lyrics/02 Cold Lists, Cold Nights.md)
 
-### 3. [Born Under a Bad IP](./lyrics/03 Born Under A Bad IP.md)
+3. [Born Under a Bad IP](./lyrics/03 Born Under A Bad IP.md)
 
-### 4. [DKIM on My Mind](./lyrics/04 DKIM On My Mind.md)
+4. [DKIM on My Mind](./lyrics/04 DKIM On My Mind.md)
 
-### 5. [DMARC Don’t Lie](./lyrics/05 DMARC Don't Lie.md)
+5. [DMARC Don’t Lie](./lyrics/05 DMARC Don't Lie.md)
 
-### 6. [Spam Folder Train](./lyrics/06 Spam Folder Train.md)
+6. [Spam Folder Train](./lyrics/06 Spam Folder Train.md)
 
-### 7. [The Blocklist Knows My Name](./lyrics/07 The Blocklist Knows My Name.md)
+7. [The Blocklist Knows My Name](./lyrics/07 The Blocklist Knows My Name.md)
 
-### 8. [Feedback Loop Blues](./lyrics/08 Feedback Loop Blues.md)
+8. [Feedback Loop Blues](./lyrics/08 Feedback Loop Blues.md)
 
-### 9. [Warm It Up Slow](./lyrics/09 Warm It Up Slow.md)
+9. [Warm It Up Slow](./lyrics/09 Warm It Up Slow.md)
 
-### 10. [Opens Don’t Mean Love](./lyrics/10 Opens Don't Mean Love.md)
+10. [Opens Don’t Mean Love](./lyrics/10 Opens Don't Mean Love.md)
 
-### 11. [Cadence Like a Heartbeat](./lyrics/11 Cadence Like A Heartbeat.md)
+11. [Cadence Like a Heartbeat](./lyrics/11 Cadence Like A Heartbeat.md)
 
-### 12. [Unsubscribe Me Gentle](./lyrics/12 Unsubscribe Me Gentle.md)
+12. [Unsubscribe Me Gentle](./lyrics/12 Unsubscribe Me Gentle.md)
 
-### 13. [Compliance Ain’t the Enemy](./lyrics/13 Compliance Ain't The Enemy.md)
+13. [Compliance Ain’t the Enemy](./lyrics/13 Compliance Ain't The Enemy.md)
 
-### 14. [Clean Lists, Clear Conscience](./lyrics/14 Clean Lists, Clean Conscience.md)
+14. [Clean Lists, Clear Conscience](./lyrics/14 Clean Lists, Clean Conscience.md)
 
-### 15. [Still in the Inbox](./lyrics/15 Still In The Inbox.md)
+15. [Still in the Inbox](./lyrics/15 Still In The Inbox.md)
 
 ---
 
